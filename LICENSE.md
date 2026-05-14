@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with smart Trading Bot for dex liquidity bot | auto-compounding & slippage-control, the #1 dex liquidity bot. Includes auto-compounding and slippage-control
 
 
 
